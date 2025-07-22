@@ -42,18 +42,6 @@ Proyek ini dikerjakan melalui beberapa tahapan utama:
 
 ---
 
-## Hasil
-
-Model final berhasil mencapai performa yang sangat baik dengan hasil sebagai berikut pada data uji:
-* **ROC AUC Score:** 0.8249
-* **F1-Score (untuk kelas 'Yes'):** 0.63
-* **Recall (untuk kelas 'Yes'):** 0.71
-* **Precision (untuk kelas 'Yes'):** 0.57
-
-Hasil ini menunjukkan bahwa model memiliki kemampuan yang kuat untuk mengidentifikasi nasabah berisiko tinggi dengan keseimbangan yang baik antara Recall dan Precision.
-
----
-
 ## Kesimpulan dan Rekomendasi
 
 **Kesimpulan:** Berhasil dibangun sebuah model *machine learning* yang fungsional dan efektif untuk memprediksi klaim asuransi, meskipun dihadapkan pada tantangan dataset yang sangat tidak seimbang.
